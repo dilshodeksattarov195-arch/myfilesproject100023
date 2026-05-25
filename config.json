@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "tokenpave",
+        "uuid": 97129,
+        "checksum": "xgfcqo"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
